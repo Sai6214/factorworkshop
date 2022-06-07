@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\bin\Debug\net6.0\factorworkshop.exe
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\bin\Debug\net6.0\factorworkshop.deps.json
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\bin\Debug\net6.0\factorworkshop.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\bin\Debug\net6.0\factorworkshop.dll
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\bin\Debug\net6.0\factorworkshop.pdb
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.dll
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\refint\factorworkshop.dll
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.pdb
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\factorworkshop.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\factorworkshop\factorworkshop\obj\Debug\net6.0\ref\factorworkshop.dll
